@@ -10,9 +10,9 @@ hello Binbin! hello Git!
 hello Binbin! hello Git!
 hello Binbin! hello Git!
 hello Binbin! hello Git!
+hello Binbin! hello Git!  
 hello Binbin! hello Git!
 hello Binbin! hello Git!
 hello Binbin! hello Git!
-hello Binbin! hello Git!
-hello Binbin! hello Git!
+hello Binbin! hello Git! master test
 hello Binbin! hello Git!
