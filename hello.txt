@@ -14,5 +14,5 @@ hello Binbin! hello Git!
 hello Binbin! hello Git!
 hello Binbin! hello Git!
 hello Binbin! hello Git!
-hello Binbin! hello Git!
+hello Binbin! hello Git! hot-fix test
 hello Binbin! hello Git!
